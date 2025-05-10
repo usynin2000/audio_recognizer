@@ -3,3 +3,7 @@
 *.mp4
 *.wav
 venv/
+*.wpm
+*.mp3
+.env
+__pycache__/
